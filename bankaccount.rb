@@ -1,5 +1,6 @@
 ## create a program that acts as a bank account with deposits and withdrawls
 
+puts "Welcome to Safe Bank!"
 puts "What is your name?"
 name = gets.chomp
 puts "Your beginning balance #{name} is $1,000"
